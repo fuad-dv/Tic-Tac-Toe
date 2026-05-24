@@ -6,6 +6,24 @@ Built as a project for **SE121 – Structured Programming**
 
 ---
 
+## Screenshots
+
+Here's the game running inside VS Code's terminal:
+
+**Game start — empty board**  
+![Game Start](screenshots/1.png)
+
+**Mid game — AI takes center, player fights back**  
+![Mid Game](screenshots/2.png)
+
+**Late game — both sides pushing for a win**  
+![Late Game](screenshots/3.png)
+
+**Game over — It's a draw!**  
+![Draw](screenshots/4.png)
+
+---
+
 ## Features
 
 - Play against an AI opponent in the terminal
@@ -67,8 +85,13 @@ tictactoe.exe
 
 ```
 tictactoe/
-├── tictactoe.c    # Full source code
-└── README.md      # Project documentation
+├── tictactoe.c        # Full source code
+├── README.md          # Project documentation
+└── screenshots/       # Gameplay screenshots
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    └── 4.png
 ```
 
 ---
@@ -82,9 +105,9 @@ tictactoe/
 - Rule-based AI logic
 
 ---
-
+**So why are you waiting? Just compile and run the game**,,,,,,
 ## Author
 
 **Fuad Hassan Shiraji**  
-BSc in Software Engineering (SWE'46-L) 
+BSc in Software Engineering  (SWE-46-L),
 Daffodil International University (DIU)
