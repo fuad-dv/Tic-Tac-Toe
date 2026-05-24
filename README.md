@@ -85,6 +85,6 @@ tictactoe/
 
 ## Author
 
-**Fuad**  
-BSc in Software Engineering  
+**Fuad Hassan Shiraji**  
+BSc in Software Engineering (SWE'46-L) 
 Daffodil International University (DIU)
