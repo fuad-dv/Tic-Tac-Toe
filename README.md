@@ -19,7 +19,7 @@ Here's the game running inside VS Code's terminal:
 **Late game — both sides pushing for a win**  
 ![Late Game](screenshots/3.png)
 
-**Game over — It's a draw!**  
+**Game over — Computer Wins!**  
 ![Draw](screenshots/4.png)
 
 ---
